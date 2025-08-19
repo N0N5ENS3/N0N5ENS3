@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1092" height="1080" alt="1000038777" src="https://github.com/user-attachments/assets/2f1968bf-ec27-487e-a143-181fd6cd123a" />
+
 
 <!--
 **N0N5ENS3/N0N5ENS3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
